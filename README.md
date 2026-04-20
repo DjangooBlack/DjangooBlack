@@ -15,9 +15,9 @@
 - 📧 Reach out to me via email at halilibrahimbayram@email.com
 
 ### GitHub Stats
-![Github Stats](https://github-readme-stats.vercel.app/api?username=HalilIbrahimBayram)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HalilIbrahimBayram)
-[![trophy](https://github-profile-trophy.vercel.app/?username=HalilIbrahimBayram)](https://github.com/HalilIbrahimBayram)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=DjangooBlack)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DjangooBlack)
+[![trophy](https://github-profile-trophy.vercel.app/?username=DjangooBlack)](https://github.com/DjangooBlack)
 [![GitHub Streak](https://streak-stats.demolab.com?user=DjangooBlack&theme=dark&locale=tr)](https://git.io/streak-stats)
 
 ##  ✨ Skills
