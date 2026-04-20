@@ -18,7 +18,7 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=HalilIbrahimBayram)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HalilIbrahimBayram)
 [![trophy](https://github-profile-trophy.vercel.app/?username=HalilIbrahimBayram)](https://github.com/HalilIbrahimBayram)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=HalilIbrahimBayram)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=DjangooBlack&theme=dark&locale=tr)](https://git.io/streak-stats)
 
 ##  ✨ Skills
 - Python
