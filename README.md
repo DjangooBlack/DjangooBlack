@@ -32,11 +32,17 @@
 ### 📌Github Stats
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
-![Stats](./profile/stats.svg)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="./profile/stats.svg" />
+  </a>
+</p>
 
-![Top Languages](./profile/top-langs.svg)
-
-![Pinned](./profile/pin-stats-organization-github-readme-stats.svg)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="./profile/top-langs.svg" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://skillicons.dev">
