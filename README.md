@@ -1,4 +1,11 @@
-### 👨🏼‍💻Tech-stack
+# Hey There! 👋
+### English
+
+### Turkish
+
+<details>
+  <summary><b>👨🏼‍💻Tech-stack</b></summary><br>
+
 #### Programing Languages
 <p align="center">
   <a href="https://skillicons.dev">
@@ -9,7 +16,7 @@
 #### Frameworks & libraries
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,babel,webpack,nodejs,django" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,react,babel,webpack,nodejs,django" />
   </a>
 </p>
 
@@ -17,6 +24,20 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=npm" />
+  </a>
+</p>
+
+#### Source Control
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab" />
+  </a>
+</p>
+
+#### CI/CD Pipeline
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=githubactions," />
   </a>
 </p>
 
@@ -33,29 +54,15 @@
     <img src="https://skillicons.dev/icons?i=linux" />
   </a>
 </p>
+</details>
 
-### 📌Github Stats
+<details>
+  <summary><b>⚙️ GitHub Analytics</b></summary><br>
 
-<p align="center">
-  <a>
-    <img src="./profile-3d-contrib/profile-night-rainbow.svg" />
-  </a>
-</p>
+  <p align="center">
+    <a>
+      <img src="./profile-3d-contrib/profile-night-rainbow.svg" />
+    </a>
+  </p>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="./profile/stats.svg" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="./profile/top-langs.svg" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="./profile/pin-stats-organization-github-readme-stats.svg" />
-  </a>
-</p>
+</details>
