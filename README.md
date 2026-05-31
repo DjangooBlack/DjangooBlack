@@ -1,9 +1,10 @@
 
 <h1 align="center"> Hi there, I'm <a href="">Halil ibrahim</a> </h1>
-<img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/btwbl4ze">
-<img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCpOn-xzOYFhjDHCbOO5THLQ">
 
-
+<p align="left">
+  <a href=""><img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/btwbl4ze"></a>
+  <a href="https://www.youtube.com/@btwBlaze"><img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCpOn-xzOYFhjDHCbOO5THLQ"></a>
+</p>
 
 <details>
   <summary><b>👨🏼‍💻Tech-stack</b></summary><br>
