@@ -2,7 +2,8 @@
 <h1 align="center"> Hi there, I'm <a href="">Halil ibrahim</a> </h1>
 
 <p align="left">
-  <a href=""><img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/btwbl4ze"></a>
+  <a href="https://github.com/DjangooBlack"><img alt="GitHub User's stars" src="https://img.shields.io/github/stars/DjangooBlack"></a>
+  <a href="https://x.com/btwbl4ze"><img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/btwbl4ze"></a>
   <a href="https://www.youtube.com/@btwBlaze"><img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCpOn-xzOYFhjDHCbOO5THLQ"></a>
 </p>
 
