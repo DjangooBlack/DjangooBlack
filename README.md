@@ -7,7 +7,7 @@
   <a href="https://www.youtube.com/@btwBlaze"><img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCpOn-xzOYFhjDHCbOO5THLQ"></a>
 </p>
 
-<details align="center">
+<details>
   <summary><b>👨🏼‍💻Tech-stack</b></summary>
 
 <p align="center">
